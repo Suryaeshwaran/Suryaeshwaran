@@ -1,24 +1,34 @@
-# Hi, I'm Surya Suresh Kumar👋
+# Surya Suresh Kumar
 
-Flutter developer building offline-first desktop and mobile apps for real businesses — pharmacies, jewelry retail, and small clinics. Solo builder, from first commit to client pilot.
+Flutter developer building offline-first desktop and mobile software for pharmacies, jewelry retailers, and small clinics. Solo — requirements through deployment and client pilot.
 
-## 🚀 What I'm building
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**[pharmacy_app](https://github.com/Suryaeshwaran/pharmacy_app)** — Offline-first pharmacy billing app for Windows desktop. Inventory, expiry tracking, billing, stock alerts, sales reports, and backup/restore. Built with Flutter + SQLite (Drift). Currently in pilot use at a dental clinic.
+## Projects
 
-**[jewel_stock](https://github.com/Suryaeshwaran/jewel_stock)** — Inventory management app for a jewelry shop client, with barcode generation for tracking stock. Flutter + SQLite, Windows desktop.
+**[pharmacy_app](https://github.com/Suryaeshwaran/pharmacy_app)**
+Offline-first pharmacy billing system for Windows desktop. Inventory, expiry tracking, billing, stock alerts, sales reports, backup/restore. Flutter + SQLite (Drift). In pilot use at a dental clinic.
 
-**[expense_tracker](https://github.com/Suryaeshwaran/expense_tracker)** — *Xpense*: a personal finance tracker for Android. Tracks income, expenses, credit, and deposits. Flutter + Drift, fully local — no cloud dependency.
+**[jewel_stock](https://github.com/Suryaeshwaran/jewel_stock)**
+Inventory management for a jewelry retail client, with barcode generation. Flutter + SQLite, Windows desktop.
 
-**[frappe_books_report](https://github.com/Suryaeshwaran/frappe_books_report)** — A Flutter extension for Frappe Books (open-source accounting) to generate custom reports.
+**[expense_tracker](https://github.com/Suryaeshwaran/expense_tracker)**
+Xpense — a personal finance tracker for Android. Income, expense, credit, and deposit tracking, fully local. Flutter + Drift.
 
-## 🛠️ How I work
+**[frappe_books_report](https://github.com/Suryaeshwaran/frappe_books_report)**
+A Flutter extension for Frappe Books that generates custom accounting reports.
 
-- **Stack:** Flutter, Dart, SQLite/Drift — cross-platform from one codebase (Windows desktop + Android)
-- **Focus:** offline-first architecture, local data, no unnecessary cloud dependency
-- **Workflow:** I use AI tools (Claude, Copilot) heavily as part of my development process — for speed, not as a substitute for understanding the code I ship
-- **Approach:** solo developer, end-to-end — from client requirements to build, deployment, and pilot support
+## GitHub Stats
 
-## 📫 Reach me
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suryaeshwaran&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaeshwaran&layout=compact&hide_border=true&theme=default)
+
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/suresh-kumar-0685b3325)
