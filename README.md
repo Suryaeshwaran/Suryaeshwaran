@@ -1,6 +1,8 @@
 # Surya Suresh Kumar
 
-Flutter developer building offline-first desktop and mobile software for pharmacies, jewelry retailers, and small clinics. Solo — requirements through deployment and client pilot.
+# Hi, I'm Surya
+ 
+9+ years in Linux systems administration and Java middleware (IBM WebSphere, JBoss), now applying that background to Flutter development — offline-first desktop and mobile software for pharmacies, jewelry retailers, and small clinics. Solo, requirements through deployment and client pilot.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
