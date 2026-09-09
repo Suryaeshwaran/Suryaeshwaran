@@ -28,8 +28,3 @@ Xpense — a personal finance tracker for Android. Income, expense, credit, and 
 
 **[frappe_books_report](https://github.com/Suryaeshwaran/frappe_books_report)**
 A Flutter extension for Frappe Books that generates custom accounting reports.
-
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/suresh-kumar-0685b3325)
