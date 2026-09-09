@@ -1,4 +1,4 @@
-# Hi, I'm Surya 👋
+# Hi, I'm Surya Suresh Kumar👋
 
 Flutter developer building offline-first desktop and mobile apps for real businesses — pharmacies, jewelry retail, and small clinics. Solo builder, from first commit to client pilot.
 
