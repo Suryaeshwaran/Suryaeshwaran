@@ -21,7 +21,7 @@ I enjoy taking an idea from **requirements → design → development → deploy
 Offline-first pharmacy billing system for Windows desktop. Inventory, expiry tracking, billing, stock alerts, sales reports, backup/restore. Flutter + SQLite (Drift). In pilot use at a dental clinic.
 
 **[jewel_stock](https://github.com/Suryaeshwaran/jewel_stock)**
-Inventory management for a jewellery retail client, with barcode generation. Flutter + SQLite, Windows desktop.
+Inventory management for a jewellery retail client. Flutter + SQLite, Windows desktop.
 
 **[expense_tracker](https://github.com/Suryaeshwaran/expense_tracker)**
 Xpense — a personal finance tracker for Android. Income, expense, credit, and deposit tracking, fully local. Flutter + Drift.
