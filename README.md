@@ -1,8 +1,8 @@
 # Hi, I'm Surya Suresh Kumar 👋
 
-I’m a Linux & middleware professional turned software developer, with 9+ years of experience in Linux systems administration and middleware (IBM WebSphere, JBoss).
+I’m an Infra guy (Linux + Middleware) turned software developer working with Flutter + Dart.
 
-Today, I build practical, offline-first desktop and mobile applications with Flutter — mainly for real-world businesses such as pharmacies, jewellery retailers, and small clinics.
+Now, I’m developing mobile and desktop applications for real needs — whether it’s for a business or personal use.
 
 I enjoy taking an idea from **requirements → design → development → deployment → real-world use**, often building and delivering the software myself.
 
